@@ -27,7 +27,4 @@
  
 </div>
 
-- 🔭 Atualmente estou estudando Analise e Desnv.de Sistema !
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Ambicioso por Tecnologia!
 
