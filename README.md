@@ -10,6 +10,10 @@
   <img align="center" alt="Marhf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marhf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marhf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Marhf-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" alt="Marhf-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+     <img align="center" alt="Marhf-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+     <img align="center" alt="Marhf-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
   <img align="right" alt="Marhf-pic" height="150" style="border-radius:50px;" 
        src="https://64.media.tumblr.com/86db5b2441c19b599d8c9b3ebd015438/8cffba6d55e21577-95/s500x750/ff386e83521d84fac601636a1c1f58bf697da39d.gifv">
     
