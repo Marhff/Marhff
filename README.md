@@ -20,10 +20,10 @@ CTO @CubeDev.
   
   ##
   
-[![Twitter Badge](https://img.shields.io/badge/-marcos100rock-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos_França-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/diego-schell-fernandes/](https://www.linkedin.com/in/marcos-frança-a7847a1b2/))](https://www.linkedin.com/in/marcos-frança-a7847a1b2/) 
-[![Gmail Badge](https://img.shields.io/badge/-contato.marcosfranca@outlook.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.marcosfranca@outlook.com)](contato.marcosfranca@outlook.com)
-[![Discord Badge](https://img.shields.io/badge/-Discord_Server-00875f?style=flat-square&logo=Discord&logoColor=white&link=[mailto:diego.schell.f@gmail.com](https://discord.gg/J3WGTyeD7s))](https://discord.gg/J3WGTyeD7s)
+[![Twitter Badge](https://img.shields.io/badge/-marcos100rock-592b30?style=flat-square&labelColor=592b30&logo=twitter&logoColor=white&link=https://twitter.com/marcos100rock)](https://twitter.com/marcos100rock) 
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos_França-592b30?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/diego-schell-fernandes/](https://www.linkedin.com/in/marcos-frança-a7847a1b2/))](https://www.linkedin.com/in/marcos-frança-a7847a1b2/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato.marcosfranca@outlook.com-592b30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.marcosfranca@outlook.com)](contato.marcosfranca@outlook.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord_Server-592b30?style=flat-square&logo=Discord&logoColor=white&link=[mailto:diego.schell.f@gmail.com](https://discord.gg/J3WGTyeD7s))](https://discord.gg/J3WGTyeD7s)
 
 Enthusiast of the best web & mobile development technologies.
 
